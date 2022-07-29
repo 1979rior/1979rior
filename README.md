@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1979rior
 - 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email me
 
